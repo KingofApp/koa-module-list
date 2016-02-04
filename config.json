@@ -13,7 +13,7 @@
     "firebase"
   ],
   "canContain": false,
-  "view": "modules/list/index.html",
-  "files": ["modules/list/controller.js"],
+  "view": "http://resources.kingofapp.com/modules/list/index.html",
+  "files": ["http://resources.kingofapp.com/modules/list/controller.js"],
   "scope": {}
 }
