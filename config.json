@@ -3,7 +3,7 @@
   "identifier": "list",
   "type": "A",
   "icon": "firebase",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "King of App",
   "showOn": {
     "menu": true,
