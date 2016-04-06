@@ -7,14 +7,14 @@
   "author": "King of App",
   "showOn": {
     "menu": true,
-    "market": true,
+    "market": false,
     "dragDrop": true
   },
   "requires": [
     "firebase"
   ],
   "canContain": false,
-  "view": "http://resources.kingofapp.com/modules/list/index.html",
-  "files": ["http://resources.kingofapp.com/modules/list/controller.js"],
+  "view": "modules/list/index.html",
+  "files": ["modules/list/controller.js"],
   "scope": {}
 }
