@@ -1,20 +1,22 @@
 {
-  "name": "List Module",
-  "identifier": "list",
-  "type": "A",
-  "icon": "firebase",
-  "version": "1.0.0",
-  "author": "King of App",
-  "showOn": {
-    "menu": true,
-    "market": false,
-    "dragDrop": true
-  },
-  "requires": [
-    "firebase"
-  ],
-  "canContain": false,
-  "view": "modules/list/index.html",
-  "files": ["modules/list/controller.js"],
-  "scope": {}
+    "name": "List Module",
+    "identifier": "list",
+    "type": "A",
+    "icon": "firebase",
+    "version": "1.0.1",
+    "author": "King of App",
+    "showOn": {
+        "menu": true,
+        "market": false,
+        "dragDrop": true
+    },
+    "requires": [
+        "firebase"
+    ],
+    "canContain": false,
+    "view": "modules/list/index.html",
+    "files": [
+        "modules/list/controller.js"
+    ],
+    "scope": {}
 }
